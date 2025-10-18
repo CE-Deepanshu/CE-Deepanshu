@@ -37,4 +37,4 @@ Currently, I do not have any blog posts to share. Stay tuned for future updates!
 
 ## Connect with Me
 
-[Linked in](www.linkedin.com/in/contactdeepanshurathore")
+[Linked in](https://www.linkedin.com/in/contactdeepanshurathore/)
