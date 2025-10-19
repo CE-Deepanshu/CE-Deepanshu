@@ -26,7 +26,7 @@ Standards: IS Codes (Concrete, Estimation, Structural)
 
 ## Bachelor of Technology in Civil Engineering
 
-Guru Nanak Dev Engineering College, Ludhiana
+### Guru Nanak Dev Engineering College, Ludhiana
 
 CGPA: 8.21 | Ranked Top 5%
 
@@ -34,7 +34,7 @@ CGPA: 8.21 | Ranked Top 5%
 
 ## Diploma in Civil Engineering
 
-Guru Nanak Dev Polytechnic College, Ludhiana
+### Guru Nanak Dev Polytechnic College, Ludhiana
 
 Percentage: 73.72% | Ranked Top 5%
 
@@ -42,7 +42,7 @@ Percentage: 73.72% | Ranked Top 5%
 
 # 🏗️ Project Experience
 
-✅ Conventional Concrete with Glass Powder
+## ✅ Conventional Concrete with Glass Powder
 
 Used waste glass powder as partial replacement for fine aggregate
 
@@ -50,7 +50,7 @@ Designed mix as per IS 10262
 
 Aimed to improve strength, sustainability, and durability
 
-✅ Estimation & Costing of G+5 Commercial Building
+## ✅ Estimation & Costing of G+5 Commercial Building
 
 Performed detailed estimation using MS Excel
 
