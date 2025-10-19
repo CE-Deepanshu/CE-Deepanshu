@@ -4,7 +4,7 @@
 # 📞 +91 85579 24162
 # ✉️ deepanshurathore634@gmail.com
 
-# 🔗 LinkedIn Profile
+# 🔗 [LinkedIn Profile](https://www.linkedin.com/in/contactdeepanshurathore/)
 
 # 🧾 About Me
 
