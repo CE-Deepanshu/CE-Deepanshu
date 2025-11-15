@@ -10,18 +10,6 @@
 
 Dedicated and detail-oriented Civil Engineer with hands-on experience in estimation, cost analysis, structural planning, and conventional concrete design. Skilled in both manual and digital methods, with a strong interest in BIM implementation for project optimization. A motivated team player committed to delivering sustainable and cost-efficient construction solutions.
 
-# 🛠️ Technical Skills
-
-Design & Drafting: AutoCAD, SketchUp, MicroStation, FreeCAD
-
-Structural Analysis & Design: STAAD.Pro, RCDC
-
-Surveying: Land and level surveying
-
-Estimation & BBS: Quantity estimation, Bar Bending Schedule preparation
-
-Standards: IS Codes (Concrete, Estimation, Structural)
-
 # 📚 Education
 
 ## Bachelor of Technology in Civil Engineering
