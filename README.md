@@ -1,59 +1,63 @@
-# 👷‍♂️ Deepanshu — Civil Engineer
+<h1 align="center">Hi 👋, I'm Deepanshu</h1>
+<h3 align="center">Civil & Structural Engineer | Structural Analysis Enthusiast | Web Developer (Civil Engineering Tools)</h3>
 
-# 📍 Ludhiana, India
-# 📞 +91 85579 24162
-# ✉️ deepanshurathore634@gmail.com
+---
 
-# 🔗 [LinkedIn Profile](https://www.linkedin.com/in/contactdeepanshurathore/)
+### 🌟 About Me  
+- 🎓 Civil Engineering Student passionate about **Structural Engineering**  
+- 🏗️ Skilled in **Structural Analysis, RCC & Steel Design, SOM, SHM**  
+- 💻 Learning & building **web-based engineering software** using **HTML, CSS, JS & Python**  
+- 🛠️ Interested in creating tools similar to **STAAD Pro**, **ETABS**, FEM solvers & automation apps  
+- 📊 Also working on **project management tools** and **engineering calculators**
 
-# 🧾 About Me
+---
 
-Dedicated and detail-oriented Civil Engineer with hands-on experience in estimation, cost analysis, structural planning, and conventional concrete design. Skilled in both manual and digital methods, with a strong interest in BIM implementation for project optimization. A motivated team player committed to delivering sustainable and cost-efficient construction solutions.
+### 🧰 Tech Stack  
+#### 🏗️ Engineering & Analysis  
+- Structural Design (RCC, Steel)  
+- FEM (Finite Element Analysis)  
+- Project Management & Gantt Charts  
+- IS Codes (456, 800, 3370, 10262, 875, etc.)
 
-# 📚 Education
+#### 💻 Development Skills  
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-## Bachelor of Technology in Civil Engineering
+**Backend & Scripting:**  
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
 
-### Guru Nanak Dev Engineering College, Ludhiana
+**Tools & Platforms:**  
+<img src="https://skillicons.dev/icons?i=github,git,vscode" />
 
-CGPA: 8.21 | Ranked Top 5%
+---
 
-2023 – 2026
+### 📌 Featured Interests  
+- ✔️ Structural Analysis Web Apps  
+- ✔️ FEM Calculation Engines (Python)  
+- ✔️ RC & Steel Design Automation  
+- ✔️ Google Login + Payment Gateway Integration  
+- ✔️ Civil Engineering Visualizations (Stress–Strain curves, Load diagrams)  
+- ✔️ Database of Steel Sections (ISHB, ISMB, ISLB, ISWB etc.)
 
-## Diploma in Civil Engineering
+---
 
-### Guru Nanak Dev Polytechnic College, Ludhiana
+### 📚 Current Projects  
+🔹 **Web-Based Structural Analysis Tool** (Beam Solver, Load Calculator)  
 
-Percentage: 73.72% | Ranked Top 5%
+---
 
-2020 – 2023
+### 🌐 Connect With Me  
+<p align="left">
+<a href="https://github.com/CE-Deepanshu" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
-# GitHub Projects
+---
 
-- [MSE_CE_GNDEC_2025.github.io](https://github.com/CE-Deepanshu/MSE_CE_GNDEC_2025.github.io) - A comprehensive repository dedicated to the MST for Civil Engineering, providing solutions to past papers and sample questions. ⭐ 1 | Language: HTML | Forks: 0 | Issues: 0
-- [RCC-Design.github.io](https://github.com/CE-Deepanshu/RCC-Design.github.io) - A concise collection of design procedures for various RCC structural elements focusing on core principles. ⭐ 1 | Language: HTML | Forks: 0 | Issues: 0
-- [IS-456-2000.github.io](https://github.com/CE-Deepanshu/IS-456-2000.github.io) - A repository dedicated to IS 456: 2000 Plain and Reinforced Concrete - Code of Practice. ⭐ 1 | Language: HTML | Forks: 0 | Issues: 0
+### ⚡ Fun Fact  
+I love blending **engineering + coding** to create tools that make civil engineering easier, faster, and smarter.
 
-# GitHub Stats
+---
 
-📊 **Public Repositories:** 3  
-👥 **Followers:** 0  
-👤 **Following:** 0  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CE-Deepanshu&show_icons=true&theme=radical)
-
-# Recent Activity
-
-Here are some of my latest activities on GitHub:
-- ⭐ Started watching [MSE_CE_GNDEC_2025.github.io](https://github.com/CE-Deepanshu/MSE_CE_GNDEC_2025.github.io)
-- ⭐ Started watching [RCC-Design.github.io](https://github.com/CE-Deepanshu/RCC-Design.github.io)
-- 👍 Pushed updates to [RCC-Design.github.io](https://github.com/CE-Deepanshu/RCC-Design.github.io)
-- ⚡ Pushed updates to [IS-456-2000.github.io](https://github.com/CE-Deepanshu/IS-456-2000.github.io)
-
-# Latest Blog Posts
-
-Currently, I do not have any blog posts to share. Stay tuned for future updates!
-
-# Connect with Me
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/contactdeepanshurathore/)
-
+⭐ **If you like my work, don’t forget to star my repositories!**  
